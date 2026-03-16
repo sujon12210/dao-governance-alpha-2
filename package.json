@@ -1,0 +1,18 @@
+{
+  "name": "dao-governance-alpha",
+  "version": "1.0.0",
+  "description": "Full-stack On-Chain DAO Governance Framework",
+  "main": "GovernanceEngine.sol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "keywords": [
+    "dao",
+    "governance",
+    "voting",
+    "solidity",
+    "web3"
+  ],
+  "author": "Nazrul",
+  "license": "MIT"
+}
